@@ -1,0 +1,17 @@
+{
+  "name": "how-to-npm-practice",
+  "version": "1.0.2",
+  "description": "My first npm project practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upyror-del/how-to-npm-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
